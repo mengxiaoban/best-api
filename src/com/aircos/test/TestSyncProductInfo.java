@@ -28,7 +28,7 @@ public class TestSyncProductInfo {
 //		Persons  p = new Persons();
 //		
 //		ArrayList list = new ArrayList();
-//		list.add(joe);
+//		list.add(jjoe);
 //		list.add(joe2);
 //		
 //		p.setPersons(list);

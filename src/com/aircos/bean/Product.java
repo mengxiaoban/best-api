@@ -16,8 +16,6 @@ public class Product {
 	private String barCode;
 	private Double weight;
 	private Float unitPrice;
-	
-	
 	public String getSkuCode() {
 		return skuCode;
 	}
@@ -60,4 +58,6 @@ public class Product {
 	public void setUnitPrice(Float unitPrice) {
 		this.unitPrice = unitPrice;
 	}
+ 
+	
 }
