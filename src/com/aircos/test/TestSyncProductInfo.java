@@ -1,11 +1,13 @@
-package com.aircos.bean;
+package com.aircos.test;
 
 import java.util.ArrayList;
 
+import com.aircos.bean.Product;
+import com.aircos.bean.SyncProductInfo;
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.io.xml.DomDriver;
 
-public class Test {
+public class TestSyncProductInfo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
